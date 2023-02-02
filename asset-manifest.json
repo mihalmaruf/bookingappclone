@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookingappclone/static/css/main.3db23c9d.css",
+    "main.js": "/bookingappclone/static/js/main.df8b36e7.js",
+    "index.html": "/bookingappclone/index.html",
+    "main.3db23c9d.css.map": "/bookingappclone/static/css/main.3db23c9d.css.map",
+    "main.df8b36e7.js.map": "/bookingappclone/static/js/main.df8b36e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db23c9d.css",
+    "static/js/main.df8b36e7.js"
+  ]
+}
